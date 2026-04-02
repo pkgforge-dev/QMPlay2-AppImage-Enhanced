@@ -6,7 +6,9 @@ ARCH=$(uname -m)
 
 echo "Installing package dependencies..."
 echo "---------------------------------------------------------------"
-# pacman -Syu --noconfirm PACKAGESHERE
+pacman -Syu --noconfirm \
+    pipewire-audio \
+    pipewire-jack
 
 echo "Installing debloated packages..."
 echo "---------------------------------------------------------------"
