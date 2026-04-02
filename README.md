@@ -7,7 +7,7 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/QMPlay2-AppImage)](https://github.com/pkgforge-dev/QMPlay2-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/pkgforge-dev.png" width="128" />
+  <img src="https://github.com/zaps166/QMPlay2/blob/master/src/gui/Icons/hicolor/256x256/apps/QMPlay2.png" width="128" />
 </p>
 
 
