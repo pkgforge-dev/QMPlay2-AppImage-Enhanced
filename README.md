@@ -11,9 +11,9 @@
 </p>
 
 
-| Latest Stable Release | Upstream URL |
-| :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/QMPlay2-AppImage-Enhanced/releases/latest) | [Click here](https://github.com/zaps166/QMPlay2) |
+| Latest Stable Release | Latest Nightly Relase | Upstream URL |
+| :---: | :---: | :---: |
+| [Click here](https://github.com/pkgforge-dev/QMPlay2-AppImage-Enhanced/releases/latest) | [Click here](https://github.com/pkgforge-dev/QMPlay2-AppImage-Enhanced/releases/tag/nightly) | [Click here](https://github.com/zaps166/QMPlay2) |
 
 </div>
 
